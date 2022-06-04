@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <name>RUE OCTAVE DUPONT, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.26743,47.939293</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA GARE, MARIGNY-LES-USAGES</name>
+  <Point>
+    <coordinates>2.009944,47.958515</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE ROUTE D&#39;ORLEANS, CHANTEAU</name>
+  <Point>
+    <coordinates>1.94491004944,47.9435005188</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>89 Allée Pierre DE COUBERTIN, SEMOY</name>
+  <Point>
+    <coordinates>1.950804,47.935169</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Place François MITTERRAND, SEMOY</name>
+  <Point>
+    <coordinates>1.949465,47.931969</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CTRE CULTUREL &quot;HAUTES BORDES&quot; RUE CHAMP LUNEAU, SEMOY</name>
+  <Point>
+    <coordinates>1.94741,47.932077</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE DU NECOTIN 17 RUE DU NECOTIN, ORLEANS</name>
+  <Point>
+    <coordinates>1.937466,47.917529</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MAT M. STUART 12 RUE DE LA GENDARMERIE, ORLEANS</name>
+  <Point>
+    <coordinates>1.917715,47.911975</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LYCEE J ZAY - RUE FERDINAN BUISSON, ORLEANS</name>
+  <Point>
+    <coordinates>1.9131167,47.906621</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE ST MARCEAU 57 AV DE LA MOUILLERE, ORLEANS</name>
+  <Point>
+    <coordinates>1.9092855,47.902682</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE C.PENSEE- 36 RUE BOURDON BLANC, ORLEANS</name>
+  <Point>
+    <coordinates>1.913243,47.902113</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE GUILLAUME (ECOLE MATERNELLE CHATELET), ORLEANS</name>
+  <Point>
+    <coordinates>1.91038,47.898812</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATERNELLE LES CORDIERS, 14, RUE DES CORDIERS, ORLEANS</name>
+  <Point>
+    <coordinates>1.920832,47.903017</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>72, FAUBOURG BOURGOGNE, ORLEANS</name>
+  <Point>
+    <coordinates>1.927295,47.902314</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE LOUIS GALOUEDEC – 179 RUE DU FG DE BOURGOGNE, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.937233,47.904001</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>15 RUE DU PONT BORDEAU ECOLE L. PETIT, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.954167,47.907594</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE L&#39;EGLISE, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.963645,47.903829</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>1 RUE CLOCHETON ECOLE J. PREVERT, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.970575,47.911582</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>214 RUE DE FREVILLE ECOLE P. LANGEVIN, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.970575,47.911582</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DES FETES ENTRE LE N°43 et 45 RUE DE LA MAIRIE, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.9719226,47.9115219</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>BOULEVARD JEAN ROSTAND, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.968488,47.914108</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ESPACE ANNE FRANCK – 10 RUE PIERRE EMILE ROSSIGNOL, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.977699,47.910943</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ALLEE DE BELLE ALLEE, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.982092,47.910608</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DENIS DIDEROT, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.981041,47.90848</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE PIERRE ET MARIE CURIE, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.981922,47.907233</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE GUIGNEGAULT, SAINT-JEAN-DE-BRAYE</name>
+  <Point>
+    <coordinates>1.989404,47.908688</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU CAS ROUGE, COMBLEUX</name>
+  <Point>
+    <coordinates>1.990996,47.898713</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU PONT TOURNANT (ENTREPRISE BLANCHOT), CHECY</name>
+  <Point>
+    <coordinates>2.0011144,47.8952824</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU GODET (AU CARREFOUR), CHECY</name>
+  <Point>
+    <coordinates>2.010809,47.904221</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE NATIONALE COTE MARBRERIE), CHECY</name>
+  <Point>
+    <coordinates>2.019114,47.898443</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE BERNE (SUR PARKING), CHECY</name>
+  <Point>
+    <coordinates>2.018741,47.896319</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE GRAINLOUP (DEVANT PARKING), CHECY</name>
+  <Point>
+    <coordinates>2.02765,47.901225</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE D&#39;ILVESHEIM (FAC ESPACE CULTUREL G. SAND), CHECY</name>
+  <Point>
+    <coordinates>2.025165,47.900483</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE JEAN BEAUDOIN (ESPACE VERT), CHECY</name>
+  <Point>
+    <coordinates>2.028891,47.8961</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA GARE (DEVANT HAIE VEGETALE), CHECY</name>
+  <Point>
+    <coordinates>2.036138,47.896152</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU PORT (TROTTOIR COTE MAIRIE), CHECY</name>
+  <Point>
+    <coordinates>2.025718,47.891074</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES PLANTES (ANGLE CHEMIN DES MOUTONS), CHECY</name>
+  <Point>
+    <coordinates>2.032341,47.886048</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DU BOURG, BOU</name>
+  <Point>
+    <coordinates>2.046821,47.874466</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE, MARDIE</name>
+  <Point>
+    <coordinates>2.0566599369,47.8861999512</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CIMETIERE, MARDIE</name>
+  <Point>
+    <coordinates>2.059606,47.888762</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOTISSEMENT DES GRANDS BILLONS, DONNERY</name>
+  <Point>
+    <coordinates>2.109258,47.894183</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOTISSEMENT DE LA CROIX ST FIACRE, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.125003,47.879251</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOTISSEMENT DE LA SOLAIE, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.128368,47.878175</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE D&#39;ORLEANS, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.121445,47.873929</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DES FONTAINES, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.126337,47.871467</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PARKING (CARREFOUR BD DES DORDS/RUE DES JUIFS), SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.1286047,47.871471</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 30 AVENUE DU STADE, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.128446,47.872261</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE L&#39;INDUSTRIE, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.13336,47.875728</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FAUX JUIF, SAINT-DENIS-DE-L&#39;HOTEL</name>
+  <Point>
+    <coordinates>2.149154,47.863095</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA RUELLE AUX BOIS, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.212779,47.868949</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>1 ALLEE DES CEDRES, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.219719,47.868352</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE MAURICE GENEVOIX, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.218785,47.867365</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE ARISTIDE BRIAND, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.219153,47.865598</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE BONNE DAME, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.214988,47.865156</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE PAUL CARPENTIER, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.220494,47.861359</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU 8 MAI 1945, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.222654,47.862305</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE LA NOUVELLE HALLE, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.22258,47.863844</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE MARIUS MORIN, CHATEAUNEUF-SUR-LOIRE</name>
+  <Point>
+    <coordinates>2.228272,47.864283</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE LA MAIRIE, SAINT-MARTIN-D&#39;ABBAT</name>
+  <Point>
+    <coordinates>2.266386,47.856454</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES GENETS, SAINT-MARTIN-D&#39;ABBAT</name>
+  <Point>
+    <coordinates>2.267854,47.858073</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA PRIEURE, GERMIGNY-DES-PRES</name>
+  <Point>
+    <coordinates>2.276835,47.84279</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE ROUTE DE BRAY, SAINT-AIGNAN-DES-GUES</name>
+  <Point>
+    <coordinates>2.324619,47.8381737</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>21 RUE DE LA MAIRIE, BOUZY-LA-FORET</name>
+  <Point>
+    <coordinates>2.377639,47.851088</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>14 RUE DU BOURG (MUR ECOLE), VIEILLES-MAISONS-SUR-JOUDRY</name>
+  <Point>
+    <coordinates>2.44465,47.88668</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FACE A LA MAIRIE ROUTE DE CHOISEAU, COUDROY</name>
+  <Point>
+    <coordinates>2.47023105621,47.9056396484</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 27 GRANDE RUE, LORRIS</name>
+  <Point>
+    <coordinates>2.51339006424,47.8905982971</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SNIL, LORRIS</name>
+  <Point>
+    <coordinates>2.51161,47.888978</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE POLYVALENTE BLANCHE DE CASTILLE, LORRIS</name>
+  <Point>
+    <coordinates>2.512525,47.889505</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DU MAIL, LORRIS</name>
+  <Point>
+    <coordinates>2.513034,47.887597</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SAINT LAZARE, LORRIS</name>
+  <Point>
+    <coordinates>2.51456,47.879912</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LE GUE L&#39;EVEQUE, LORRIS</name>
+  <Point>
+    <coordinates>2.518677,47.881201</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DES FETES – ROUTE D&#39;OUZOUER, MONTEREAU</name>
+  <Point>
+    <coordinates>2.571948,47.855672</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE POLYVALENTE -ROUTE DE MONTEREAU, COUR-MARIGNY (La)</name>
+  <Point>
+    <coordinates>2.595323,47.890119</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE CULTURELLE, RUE DU MOULINET, VARENNES-CHANGY</name>
+  <Point>
+    <coordinates>2.656679,47.863322</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>17, RUE DE NOGENT, VARENNES-CHANGY</name>
+  <Point>
+    <coordinates>2.661804,47.865178</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 3 PLACE DU PATIS, OUZOUER-DES-CHAMPS</name>
+  <Point>
+    <coordinates>2.711015,47.872662</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LE BOURG, SAINT-HILAIRE-SUR-PUISEAUX</name>
+  <Point>
+    <coordinates>2.705954,47.901261</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE, OUSSOY-EN-GATINAIS</name>
+  <Point>
+    <coordinates>2.64170002937,47.9070014954</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE MONTARGIS, THIMORY</name>
+  <Point>
+    <coordinates>2.60478,47.924253</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOTISSEMENT DE LA BORDE, NOYERS</name>
+  <Point>
+    <coordinates>2.564565,47.904711</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 9 RUE DE LA MAIRIE, NOYERS</name>
+  <Point>
+    <coordinates>2.523972,47.915444</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LE BOURG, CHAILLY-EN-GATINAIS</name>
+  <Point>
+    <coordinates>2.544172,47.947895</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 10 ROUTE DE LADON, PRESNOY</name>
+  <Point>
+    <coordinates>2.554343,47.956807</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 9 ROUTE DE LORRIS, CHATENOY</name>
+  <Point>
+    <coordinates>2.398769,47.918482</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PARKING DES COCCINELLES, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.3137119,47.91672</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA MAIRIE, SURY-AUX-BOIS</name>
+  <Point>
+    <coordinates>2.341366,47.965021</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 2 RUE ST PIERRE, COMBREUX</name>
+  <Point>
+    <coordinates>2.304303,47.956718</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE OCTAVE DUPONT, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.26743,47.939293</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>1, RUE PASTEUR, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.264664,47.93908</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CARREFOUR RTE D INGRANNES, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.261789,47.943848</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RTE CHATEAUNEUF (BOURRASSIERES), FAY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.146363,47.925425</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12 RUE ANDRE CHENAL, FAY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.141582,47.927049</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>POLE D&#39;ACTIVITES CULTURELLES – 22 RUE ANDRE CHENAL, FAY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.140396,47.92641</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 48 RUE ABBE THOMAS, FAY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.138005,47.927253</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DES MARRONNIERS, FAY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.139603,47.929545</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE L&#39;EGLISE, DONNERY</name>
+  <Point>
+    <coordinates>2.102479,47.91537</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LA GAILLARDIERE, MARDIE</name>
+  <Point>
+    <coordinates>2.068457,47.894968</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LE MERISIER, MARDIE</name>
+  <Point>
+    <coordinates>2.0656163,47.8889219</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE PONT AUX MOINES, MARDIE</name>
+  <Point>
+    <coordinates>2.057974,47.890062</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LES BRETEAUX, MARDIE</name>
+  <Point>
+    <coordinates>2.04776,47.9229</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES SABLONS (ANGLE RUE DE LA MALECOTIERE), CHECY</name>
+  <Point>
+    <coordinates>2.033547,47.914784</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA MOMELEE (AU CARREFOUR), CHECY</name>
+  <Point>
+    <coordinates>2.028498,47.913925</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE MONTESQUIEU, BOIGNY-SUR-BIONNE</name>
+  <Point>
+    <coordinates>2.0085125,47.9312655</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE OCTAVE DUPONT, VITRY-AUX-LOGES</name>
+  <Point>
+    <coordinates>2.26743,47.939293</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+<LinearRing>
+<coordinates>
+2.26743,47.939293
+2.009944,47.958515
+1.94491004944,47.9435005188
+1.950804,47.935169
+1.949465,47.931969
+1.94741,47.932077
+1.937466,47.917529
+1.917715,47.911975
+1.9131167,47.906621
+1.9092855,47.902682
+1.913243,47.902113
+1.91038,47.898812
+1.920832,47.903017
+1.927295,47.902314
+1.937233,47.904001
+1.954167,47.907594
+1.963645,47.903829
+1.970575,47.911582
+1.970575,47.911582
+1.9719226,47.9115219
+1.968488,47.914108
+1.977699,47.910943
+1.982092,47.910608
+1.981041,47.90848
+1.981922,47.907233
+1.989404,47.908688
+1.990996,47.898713
+2.0011144,47.8952824
+2.010809,47.904221
+2.019114,47.898443
+2.018741,47.896319
+2.02765,47.901225
+2.025165,47.900483
+2.028891,47.8961
+2.036138,47.896152
+2.025718,47.891074
+2.032341,47.886048
+2.046821,47.874466
+2.0566599369,47.8861999512
+2.059606,47.888762
+2.109258,47.894183
+2.125003,47.879251
+2.128368,47.878175
+2.121445,47.873929
+2.126337,47.871467
+2.1286047,47.871471
+2.128446,47.872261
+2.13336,47.875728
+2.149154,47.863095
+2.212779,47.868949
+2.219719,47.868352
+2.218785,47.867365
+2.219153,47.865598
+2.214988,47.865156
+2.220494,47.861359
+2.222654,47.862305
+2.22258,47.863844
+2.228272,47.864283
+2.266386,47.856454
+2.267854,47.858073
+2.276835,47.84279
+2.324619,47.8381737
+2.377639,47.851088
+2.44465,47.88668
+2.47023105621,47.9056396484
+2.51339006424,47.8905982971
+2.51161,47.888978
+2.512525,47.889505
+2.513034,47.887597
+2.51456,47.879912
+2.518677,47.881201
+2.571948,47.855672
+2.595323,47.890119
+2.656679,47.863322
+2.661804,47.865178
+2.711015,47.872662
+2.705954,47.901261
+2.64170002937,47.9070014954
+2.60478,47.924253
+2.564565,47.904711
+2.523972,47.915444
+2.544172,47.947895
+2.554343,47.956807
+2.398769,47.918482
+2.3137119,47.91672
+2.341366,47.965021
+2.304303,47.956718
+2.26743,47.939293
+2.264664,47.93908
+2.261789,47.943848
+2.146363,47.925425
+2.141582,47.927049
+2.140396,47.92641
+2.138005,47.927253
+2.139603,47.929545
+2.102479,47.91537
+2.068457,47.894968
+2.0656163,47.8889219
+2.057974,47.890062
+2.04776,47.9229
+2.033547,47.914784
+2.028498,47.913925
+2.0085125,47.9312655
+2.26743,47.939293
+</coordinates>
+</LinearRing>
+</Placemark></Document>
+</kml>

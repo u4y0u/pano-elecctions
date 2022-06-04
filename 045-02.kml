@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <name>GRANDE RUE, VILLENEUVE-SUR-CONIE</name>
+  <Point>
+    <coordinates>1.651253,48.044391</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIL EST, ARTENAY</name>
+  <Point>
+    <coordinates>1.881038,48.082107</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE L&#39;HOTEL DE VILLE, ARTENAY</name>
+  <Point>
+    <coordinates>1.878296,48.082166</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LA CROIX BRIQUET, CHEVILLY</name>
+  <Point>
+    <coordinates>1.875462,48.053369</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES HIRONDELLES, CHEVILLY</name>
+  <Point>
+    <coordinates>1.870485,48.032934</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES PRUNUS, CHEVILLY</name>
+  <Point>
+    <coordinates>1.869889,48.028781</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE PARIS, CHEVILLY</name>
+  <Point>
+    <coordinates>1.874457,48.028373</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE MUNICIPALE DES CHAPELLES, CHEVILLY</name>
+  <Point>
+    <coordinates>1.8744919,48.0265144</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 26 RUE DE PARIS, CHEVILLY</name>
+  <Point>
+    <coordinates>1.874462,48.02651</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE DU CHATEAU, CHEVILLY</name>
+  <Point>
+    <coordinates>1.871337,48.025689</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE RUE DU BOURG, BOULAY-LES-BARRES</name>
+  <Point>
+    <coordinates>1.83768999577,47.9863014221</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>EN FACE DE LA MAIRIE, GIDY</name>
+  <Point>
+    <coordinates>1.84187400341,47.9859199524</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES MALVOVIERS (PARKING SALLE POLYVALENTE), GIDY</name>
+  <Point>
+    <coordinates>1.839947,47.989707</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE, HUETRE</name>
+  <Point>
+    <coordinates>1.79623496532,48.0188026428</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GRANDE RUE, BRICY</name>
+  <Point>
+    <coordinates>1.778822,48.000042</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA GARE, COINCES</name>
+  <Point>
+    <coordinates>1.741908,48.011208</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 304 GRANDE RUE, SOUGY</name>
+  <Point>
+    <coordinates>1.79137003422,48.0530014038</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA MAIRIE, ROUVRAY-SAINTE-CROIX</name>
+  <Point>
+    <coordinates>1.731618,48.057862</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>BOULEVARD DE VERDUN, PATAY</name>
+  <Point>
+    <coordinates>1.697776,48.047048</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ROUTE D&#39;ORLEANS A LIGNEROLLES, PATAY</name>
+  <Point>
+    <coordinates>1.706415,48.031563</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE GUYNEMER, PATAY</name>
+  <Point>
+    <coordinates>1.701816,48.043107</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FAUBOURG DE LA CROIX BLANCHE, PATAY</name>
+  <Point>
+    <coordinates>1.692004,48.051074</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE COQUILLETTE, PATAY</name>
+  <Point>
+    <coordinates>1.693959,48.048658</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ROUTE DE VILLENEUVE, PATAY</name>
+  <Point>
+    <coordinates>1.6888,48.046321</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GRANDE RUE, VILLENEUVE-SUR-CONIE</name>
+  <Point>
+    <coordinates>1.651253,48.044391</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE LE BOURG, CHAPELLE-ONZERAIN (La)</name>
+  <Point>
+    <coordinates>1.61334896088,48.0333595276</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES ECOLES, VILLAMBLAIN</name>
+  <Point>
+    <coordinates>1.550258,48.009156</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA MAIRIE, TOURNOISIS</name>
+  <Point>
+    <coordinates>1.630585,48.006859</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE LA BIBLIOTHEQUE, SAINT-PERAVY-LA-COLOMBE</name>
+  <Point>
+    <coordinates>1.69976949692,47.9999373463</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 2 RUE DE LA MAIRIE, SAINT-SIGISMOND</name>
+  <Point>
+    <coordinates>1.677254,47.980768</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE PATAY, GEMIGNY</name>
+  <Point>
+    <coordinates>1.693741,47.965758</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE - 10 RUE DE LA FORET, ROZIERES-EN-BEAUCE</name>
+  <Point>
+    <coordinates>1.701265,47.941958</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PARC DE MONTPIPEAU, HUISSEAU-SUR-MAUVES</name>
+  <Point>
+    <coordinates>1.692108,47.925818</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE RUE DU 9 NOVEMBRE, COULMIERS</name>
+  <Point>
+    <coordinates>1.66208994389,47.9324989319</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE SAINT PRIVAT, EPIEDS-EN-BEAUCE</name>
+  <Point>
+    <coordinates>1.618216,47.948853</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE RUE DU MOULIN, CHARSONVILLE</name>
+  <Point>
+    <coordinates>1.58256510000001,47.9288513</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA PLANCHE, BACCON</name>
+  <Point>
+    <coordinates>1.633764,47.894632</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU BOURG, BARDON (Le)</name>
+  <Point>
+    <coordinates>1.650713,47.843634</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU BUISSON, BARDON (Le)</name>
+  <Point>
+    <coordinates>1.651895,47.835889</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE ROBERT GOUPIL, BARDON (Le)</name>
+  <Point>
+    <coordinates>1.66013,47.841759</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PLACE DE LA GARE, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.69253,47.828596</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE DES PAPECETS - RUE JEAN MACE, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.689257,47.821731</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DES FETES RUE DU PONT, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.6972889,47.8253685</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE - 32 RUE DU G DE GAULLE, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.69833,47.828291</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE DES POTIERES RUE VIGNES, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.7105478,47.8352816</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE DE LA NIVELLE 29 PLACE R. GAUTHIER, MEUNG-SUR-LOIRE</name>
+  <Point>
+    <coordinates>1.703767,47.842545</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOT DE LA BRETAGNE (ANGLE AE DES FLEURS/TULIPES), SAINT-AY</name>
+  <Point>
+    <coordinates>1.7538805,47.8587545</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATERNELLE - RUE DE LA METAIRIE, SAINT-AY</name>
+  <Point>
+    <coordinates>1.7536333,47.857958</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>DEVANT L&#39;ECOLE ELEMENTAIRE, SAINT-AY</name>
+  <Point>
+    <coordinates>1.753598,47.857914</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>DEVANT LA MAIRIE, SAINT-AY</name>
+  <Point>
+    <coordinates>1.753598,47.857914</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU VOISINAS (ANGLE RUE CREUSE), SAINT-AY</name>
+  <Point>
+    <coordinates>1.748447,47.863551</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU PREAU, HUISSEAU-SUR-MAUVES</name>
+  <Point>
+    <coordinates>1.692633,47.867205</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU PATER, HUISSEAU-SUR-MAUVES</name>
+  <Point>
+    <coordinates>1.685853,47.883669</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU BOIS DE DEURE, HUISSEAU-SUR-MAUVES</name>
+  <Point>
+    <coordinates>1.700719,47.893174</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES CAILLOTS, HUISSEAU-SUR-MAUVES</name>
+  <Point>
+    <coordinates>1.724328,47.891602</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>LOTISSEMENT DU CLOS DE L&#39;ECHELLE, CHAINGY</name>
+  <Point>
+    <coordinates>1.770749,47.88227</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE 1 PLACE DU BOURG, CHAINGY</name>
+  <Point>
+    <coordinates>1.771952,47.883636</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CENTRE CULTUREL, CHAINGY</name>
+  <Point>
+    <coordinates>1.771874,47.883893</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE ELEMENTAIRE, CHAINGY</name>
+  <Point>
+    <coordinates>1.7861785,47.8758337</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE DE LA CERISAIE, CHAINGY</name>
+  <Point>
+    <coordinates>1.791104,47.87471</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PRENAY, CHAINGY</name>
+  <Point>
+    <coordinates>1.802611,47.893903</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA GABELLIERE (ROND-POINT), CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.828697,47.890329</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE ELEMENTAIRE 7 AVENUE DES VALLEES, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.827352,47.88837</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CENTRE DE FORMATION 74 ROUTE NATIONALE, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.833614,47.888377</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DU PLESSIS DES HAUTS, PLACE DE L&#39;HOTEL DE VILLE, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.8403905,47.8871335</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>HOTEL DE VILLE RUE DU CHÂTEAU, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.8403905,47.8871335</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE BEL AIR SQUARE DES DEPORTES, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.84417,47.89081</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>PERVENCHES ROUTE D&#39;ORLEANS, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.849959,47.893601</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATER LA MADELEINE 1 RUE DE L ECALE, ORLEANS</name>
+  <Point>
+    <coordinates>1.881585,47.900889</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>35 FBG MADELEINE - FACE RUE DES BEAUMONT, ORLEANS</name>
+  <Point>
+    <coordinates>1.887613,47.900719</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>BLD JEAN JAURES - MUR DU CHRO, ORLEANS</name>
+  <Point>
+    <coordinates>1.894029,47.901179</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATER R. TOULOUSE 28 RUE STANISLAS JULIEN, ORLEANS</name>
+  <Point>
+    <coordinates>1.897901,47.900702</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATER C.LERUDE 22 R PUITS ST LAURENT, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIM GUTENBERG 37 R GRAND VILLIERS, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FBG BANNIER DEVANT N°359 ET N°363, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE DUCERCEAU- 1O RUE J D ARC, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIM L. GUILLOUX 28 FBG SAINT JEAN, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIM O.CORMIER 19 R CHATEAU GAILLARD, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GROUP SCO P. SEGELLE 1 R ELOY D AMERVAL, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE P.KERGOMARD Rue Romain ROLLAND (Le long de la cloture de l&#39;école, en face, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE J.ZAY 5O RUE DES CHARRETIERS, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE MONSEIGNEUR VON GALEN, ANGLE DE LA ROUTE D&#39;OLIVET, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE L&#39;ARGONNE FACE N°10 ET 12, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATER LAVOISIER 4 R AMPERE, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIM G CHARDON 1 R DES ROSES, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GROUP SCO P. SEGELLE 1 R ELOY D AMERVAL, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIM R ROLLAND RUE D&#39;AULON, ORLEANS</name>
+  <Point>
+    <coordinates>1.903836,47.901977</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FACE AUX 13, 15 et 17 RUE DE LA LIONNE, ORLEANS</name>
+  <Point>
+    <coordinates>1.901209,47.904217</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE MATER F. TRISTAN 34 RUE DE LIMARE, ORLEANS</name>
+  <Point>
+    <coordinates>1.898842,47.904542</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>VENELLE DU PONCEAU (ECOLE PRIMAIRE M. PROUST), ORLEANS</name>
+  <Point>
+    <coordinates>1.897121,47.913191</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>FACE AU 140 BD DE CHATEAUDUN (COTE CITE AD COLIGNY), ORLEANS</name>
+  <Point>
+    <coordinates>1.896784,47.914228</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>15 RUE EUGENE FOUSSET (ECOLE MATERNELLE R. THINAT), ORLEANS</name>
+  <Point>
+    <coordinates>1.901592,47.912525</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE MOLIERE- 8, RUE MOLIERE, ORLEANS</name>
+  <Point>
+    <coordinates>1.90146,47.917138</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES MURLINS (ECOLE PRIMAIRE A. DESSAUX), ORLEANS</name>
+  <Point>
+    <coordinates>1.893284,47.918767</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE PRIMAIRE JEAN MERMOZ 10, RUE CHARLES LE CHAUVE, ORLEANS</name>
+  <Point>
+    <coordinates>1.893373,47.924027</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>BOULEVARD MARIE STUART (ANC MAIRIE DE QUARTIER DE L&#39;ARGONNE), ORLEANS</name>
+  <Point>
+    <coordinates>1.8929259,47.9241601</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE LA SOURCE - AVENUE BOLIERE, ORLEANS</name>
+  <Point>
+    <coordinates>1.8929259,47.9241601</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE QUARTIER MADELEINE 99 FBG MADELEINE, ORLEANS</name>
+  <Point>
+    <coordinates>1.8929259,47.9241601</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DES BERGERONNETTES, SARAN</name>
+  <Point>
+    <coordinates>1.884198,47.930496</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GROUPE SCOLAIRE 15 RUE DES DIAMANTS, SAINT-JEAN-DE-LA-RUELLE</name>
+  <Point>
+    <coordinates>1.876766,47.921407</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>REST. SCOLAIRE J. LENORMAND SQUARE J.FERRY, SAINT-JEAN-DE-LA-RUELLE</name>
+  <Point>
+    <coordinates>1.872828,47.912484</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>REST SCOL 57 RUE PAUL DOUMER, SAINT-JEAN-DE-LA-RUELLE</name>
+  <Point>
+    <coordinates>1.870601,47.910189</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GROUPE SCOLAIRE 13 RUE DES ECOLES, SAINT-JEAN-DE-LA-RUELLE</name>
+  <Point>
+    <coordinates>1.871052,47.900842</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE JEAN VILAR 5 RUE D&#39;INGRE, CHAPELLE-SAINT-MESMIN (La)</name>
+  <Point>
+    <coordinates>1.839591,47.892599</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ROUTE DE LA CHAPELLE, INGRE</name>
+  <Point>
+    <coordinates>1.833955,47.907334</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ROUTE D&#39;ORLEANS CHÂTEAU BEL AIR, INGRE</name>
+  <Point>
+    <coordinates>1.844895,47.915194</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE VICTOR HUGO RUE ANDRE FOUCAULT, INGRE</name>
+  <Point>
+    <coordinates>1.8312119,47.918837</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE DES FETES RUE DU CHÂTEAU D&#39;EAU, INGRE</name>
+  <Point>
+    <coordinates>1.8289862,47.9208678</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ALLEE DES TILLEULS (PRES DE LA SALLE DES FETES), ORMES</name>
+  <Point>
+    <coordinates>1.8151312,47.9424274</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ECOLE DU MOULIN - 66 RUE DE LA JUSTICE, INGRE</name>
+  <Point>
+    <coordinates>1.839458,47.926708</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ROUTE NATIONALE ANGLE RUE DE LA GARE, INGRE</name>
+  <Point>
+    <coordinates>1.843139,47.926913</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE ANATOLE FAUCHEUX (COTE ARRET BUS), SARAN</name>
+  <Point>
+    <coordinates>1.865773,47.932867</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CENTRE MARCEL PAGNOL, SARAN</name>
+  <Point>
+    <coordinates>1.8680942,47.9384451</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE (SALLE DES FETES), SARAN</name>
+  <Point>
+    <coordinates>1.87547004223,47.951499939</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GROUPE SCOLAIRE SABLONNIERES, SARAN</name>
+  <Point>
+    <coordinates>1.880042,47.951255</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>SALLE MUNICIPALE DES AYDES RUE LOUIS CHEVALLIER, SARAN</name>
+  <Point>
+    <coordinates>1.880042,47.951255</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE DU STADE (CARREFOUR DE LA RUE MONTJOIE), SARAN</name>
+  <Point>
+    <coordinates>1.883907,47.949072</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>CENTRE JACQUES BREL, SARAN</name>
+  <Point>
+    <coordinates>1.897962,47.950583</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE GABRIEL DEBACQ, SARAN</name>
+  <Point>
+    <coordinates>1.898267,47.953918</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>AVENUE DES CHAMPS GARAUX, SARAN</name>
+  <Point>
+    <coordinates>1.8860647,47.9601926</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE, CERCOTTES</name>
+  <Point>
+    <coordinates>1.8827434,47.9857851</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DU 8 MAI 1945, CHEVILLY</name>
+  <Point>
+    <coordinates>1.874903,48.021326</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>MAIRIE - 35 RUE DE LA MAIRIE., BUCY-LE-ROI</name>
+  <Point>
+    <coordinates>1.914941,48.060373</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE D&#39;ARTENAY, TRINAY</name>
+  <Point>
+    <coordinates>1.953055,48.086047</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE LA MAIRIE, RUAN</name>
+  <Point>
+    <coordinates>1.938916,48.111853</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GRANDE RUE, LION-EN-BEAUCE</name>
+  <Point>
+    <coordinates>1.934423,48.135271</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE DE CHARTRES, ARTENAY</name>
+  <Point>
+    <coordinates>1.876195,48.082238</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE D&#39;AUVILLIERS, LIEU-DIT &quot;AUTROCHE&quot;, ARTENAY</name>
+  <Point>
+    <coordinates>1.875731,48.080247</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>RUE D ORLEANS, ARTENAY</name>
+  <Point>
+    <coordinates>1.878621,48.078684</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>GRANDE RUE, VILLENEUVE-SUR-CONIE</name>
+  <Point>
+    <coordinates>1.651253,48.044391</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+<LinearRing>
+<coordinates>
+1.651253,48.044391
+1.881038,48.082107
+1.878296,48.082166
+1.875462,48.053369
+1.870485,48.032934
+1.869889,48.028781
+1.874457,48.028373
+1.8744919,48.0265144
+1.874462,48.02651
+1.871337,48.025689
+1.83768999577,47.9863014221
+1.84187400341,47.9859199524
+1.839947,47.989707
+1.79623496532,48.0188026428
+1.778822,48.000042
+1.741908,48.011208
+1.79137003422,48.0530014038
+1.731618,48.057862
+1.697776,48.047048
+1.706415,48.031563
+1.701816,48.043107
+1.692004,48.051074
+1.693959,48.048658
+1.6888,48.046321
+1.651253,48.044391
+1.61334896088,48.0333595276
+1.550258,48.009156
+1.630585,48.006859
+1.69976949692,47.9999373463
+1.677254,47.980768
+1.693741,47.965758
+1.701265,47.941958
+1.692108,47.925818
+1.66208994389,47.9324989319
+1.618216,47.948853
+1.58256510000001,47.9288513
+1.633764,47.894632
+1.650713,47.843634
+1.651895,47.835889
+1.66013,47.841759
+1.69253,47.828596
+1.689257,47.821731
+1.6972889,47.8253685
+1.69833,47.828291
+1.7105478,47.8352816
+1.703767,47.842545
+1.7538805,47.8587545
+1.7536333,47.857958
+1.753598,47.857914
+1.753598,47.857914
+1.748447,47.863551
+1.692633,47.867205
+1.685853,47.883669
+1.700719,47.893174
+1.724328,47.891602
+1.770749,47.88227
+1.771952,47.883636
+1.771874,47.883893
+1.7861785,47.8758337
+1.791104,47.87471
+1.802611,47.893903
+1.828697,47.890329
+1.827352,47.88837
+1.833614,47.888377
+1.8403905,47.8871335
+1.8403905,47.8871335
+1.84417,47.89081
+1.849959,47.893601
+1.881585,47.900889
+1.887613,47.900719
+1.894029,47.901179
+1.897901,47.900702
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.903836,47.901977
+1.901209,47.904217
+1.898842,47.904542
+1.897121,47.913191
+1.896784,47.914228
+1.901592,47.912525
+1.90146,47.917138
+1.893284,47.918767
+1.893373,47.924027
+1.8929259,47.9241601
+1.8929259,47.9241601
+1.8929259,47.9241601
+1.884198,47.930496
+1.876766,47.921407
+1.872828,47.912484
+1.870601,47.910189
+1.871052,47.900842
+1.839591,47.892599
+1.833955,47.907334
+1.844895,47.915194
+1.8312119,47.918837
+1.8289862,47.9208678
+1.8151312,47.9424274
+1.839458,47.926708
+1.843139,47.926913
+1.865773,47.932867
+1.8680942,47.9384451
+1.87547004223,47.951499939
+1.880042,47.951255
+1.880042,47.951255
+1.883907,47.949072
+1.897962,47.950583
+1.898267,47.953918
+1.8860647,47.9601926
+1.8827434,47.9857851
+1.874903,48.021326
+1.914941,48.060373
+1.953055,48.086047
+1.938916,48.111853
+1.934423,48.135271
+1.876195,48.082238
+1.875731,48.080247
+1.878621,48.078684
+1.651253,48.044391
+</coordinates>
+</LinearRing>
+</Placemark></Document>
+</kml>
