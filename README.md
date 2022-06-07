@@ -1,5 +1,7 @@
 # pano-elections
 
-Carte de l'emplacement (approximatif) des panneaux pour les élections.
+Carte des emplacements (approximatifs) des panneaux pour les élections.
 
 A utiliser avec QGIS ou QField.
+
+![](./preview01.png)
