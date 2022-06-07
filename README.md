@@ -8,4 +8,7 @@ A utiliser avec QGIS ou QField.
 
 Lien fichier zip pour installation dans #QGIS ou #QField:
 
-[](https://github.com/u4y0u/pano-elections/blob/main/pano-elections.zip)
+[lien](https://github.com/u4y0u/pano-elections/blob/main/pano-elections.zip)
+
+
+
